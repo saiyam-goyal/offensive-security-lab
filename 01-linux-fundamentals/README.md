@@ -27,4 +27,4 @@ Understanding Linux permissions is critical for privilege escalation and system 
 touch testfile
 ls -l
 chmod 777 testfile
-chmod 600 testfile
+chmod 600 testfile```
